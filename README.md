@@ -34,6 +34,51 @@ Bu repo, GitHub üzerinde en çok beğenilen ve ücretsiz olan 25 WordPress tema
 ### 10. [Community Themes](https://github.com/WordPress/community-themes)
 - **Açıklama**: WordPress tarafından desteklenen blok tabanlı tema koleksiyonu. Yeni nesil site oluşturma araçlarıyla uyumludur.
 
+### 11. [Vertex](https://github.com/vertex-theme/vertex)
+- **Açıklama**: Temiz ve modern bir WordPress temasıdır. Blog ve kişisel projeler için uygundur.
+
+### 12. [Hemingway](https://github.com/andersnoren/hemingway)
+- **Açıklama**: İki sütunlu ve duyarlı bir tema. Retina uyumlu varlıklar ve tam genişlikte başlık resimleri içerir.
+
+### 13. [Spacious](https://github.com/ThemeGrill/spacious)
+- **Açıklama**: Çok amaçlı bir tema olup, iş, portföy veya blog siteleri için uygundur. 13 widget alanı ve harika bir kaydırıcı içerir.
+
+### 14. [Flexia](https://github.com/ThemeGrill/flexia)
+- **Açıklama**: Modern, hafif ve çok yönlü bir tema. WooCommerce ve Elementor ile uyumludur.
+
+### 15. [GK Portfolio](https://github.com/gk-portfolio/gk-portfolio)
+- **Açıklama**: Fotoğrafçılar, tasarımcılar ve yaratıcı blogcular için temiz ve şık bir portföy temasıdır.
+
+### 16. [Mesmerize](https://github.com/ThemeGrill/mesmerize)
+- **Açıklama**: Sürükle ve bırak yöntemiyle kolayca özelleştirilebilen bir tema. 30'dan fazla hazır içerik bölümü içerir.
+
+### 17. [PHLOX](https://github.com/ThemeGrill/phlox)
+- **Açıklama**: Modern, hafif ve özelleştirilebilir bir tema. Elementor, Visual Composer ve SiteOrigin ile uyumludur.
+
+### 18. [Pinnacle](https://github.com/kadencewp/pinnacle)
+- **Açıklama**: Cesur bir tema olup, çok sayıda stil seçeneği sunar. WooCommerce ile uyumludur.
+
+### 19. [Writee](https://github.com/jevelin/writee)
+- **Açıklama**: Minimal ve modern bir tema. Blog ve kişisel projeler için uygundur.
+
+### 20. [Hestia](https://github.com/ThemeIsle/hestia)
+- **Açıklama**: Modern bir tek sayfalık tema. Elementor ve WordPress Customizer ile uyumludur.
+
+### 21. [Avant](https://github.com/ThemeGrill/avant)
+- **Açıklama**: Şık ve zarif bir tema. Sanat, fotoğrafçılık veya moda odaklı bloglar için uygundur.
+
+### 22. [SuperMag](https://github.com/ThemeGrill/supermag)
+- **Açıklama**: Magazin tarzı bir tema. Reklam yerleşimleri ve kategori odaklı yapısıyla dikkat çeker.
+
+### 23. [Astra](https://github.com/brainstormforce/astra)
+- **Açıklama**: Hız odaklı, hafif ve özelleştirilebilir bir tema. WooCommerce ve sayfa oluşturucularla uyumludur.
+
+### 24. [Mayer](https://github.com/Automattic/mayer)
+- **Açıklama**: Yazarlar ve blogcular için tasarlanmış şık bir tema. Minimalist tasarımıyla dikkat çeker.
+
+### 25. [MovieAsap](https://github.com/ThemeLuxury/movieasap-wordpress-movie-theme)
+- **Açıklama**: Film ve dizi odaklı bir tema. Favori filmleri ekleme ve listeleme özellikleri sunar.
+
 ## Kullanıcılar İçin Notlar
 - Her tema, tamamen ücretsizdir ve açık kaynaklıdır.
 - Temaların tümü GitHub üzerinde mevcuttur ve orijinal projelere yönlendiren bağlantılar sağlanmıştır.
@@ -44,4 +89,3 @@ Bu repoya katkıda bulunmak isterseniz, lütfen bir pull request gönderin veya 
 
 ## Lisans
 Bu repo, GitHub'da açık kaynak temaları içermektedir ve her tema kendi lisansına tabidir. Lütfen her tema için ilgili lisans koşullarını kontrol edin.
-
